@@ -8,7 +8,7 @@ function Mobile({ isOpen, setIsOpen}) {
     </div>
     <div className="mobile-option">
         <a href="#work">
-        <i class="fi-rr-briefcase option-icon"></i>Work
+        <i class="fi-rr-briefcase option-icon"></i>Sertifikat
         </a>
     </div>
     <div className="mobile-option">
